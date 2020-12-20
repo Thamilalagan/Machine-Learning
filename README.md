@@ -1,3 +1,1 @@
-# Mobile_Price_Prediction
-Projects related to machine learning subject
-Adding the jupyter notebook file
+This project is to predict the price of the mobile using multiple parameters along with logistic regression algorithm
